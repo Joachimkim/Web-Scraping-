@@ -3,7 +3,7 @@ Scraping information about cryptocurrencies
 
 Steps to run the programs.
 Create a virtual environment for each project
-pip install and import the neccesarily libraries under each file (projects) namely soup,selenium and scrapy.
+pip install and import the neccesary libraries under each file (projects) namely soup,selenium and scrapy.
 The three projects have user-friendly codes that contains harmonised varibale names.
 Run the program
 a) python3 or python bs4_crypto.py for the soup project
