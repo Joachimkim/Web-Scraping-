@@ -1,0 +1,101 @@
+RANK,NAME,SYMBOL,PRICE,MARKET_CAP,SLUG
+1,Bitcoin,BTC,"$30,552.96","$580,587,029,934",/en/coins/bitcoin
+2,Ethereum,ETH,"$2,096.74","$252,658,268,093",/en/coins/ethereum
+3,Tether,USDT,$1.00,"$79,766,551,350",/en/coins/tether
+4,BNB,BNB,$306.91,"$51,521,209,351",/en/coins/bnb
+5,USD Coin,USDC,$1.00,"$50,142,797,623",/en/coins/usd-coin
+6,XRP,XRP,$0.447094,"$21,585,560,781",/en/coins/xrp
+7,Cardano,ADA,$0.574759,"$19,382,681,973",/en/coins/cardano
+8,Solana,SOL,$52.07,"$17,479,043,522",/en/coins/solana
+9,Binance USD,BUSD,$1.01,"$17,291,917,306",/en/coins/binance-usd
+10,Polkadot,DOT,$11.12,"$12,338,311,739",/en/coins/polkadot
+11,Dogecoin,DOGE,$0.091325322279,"$12,114,498,262",/en/coins/dogecoin
+12,Avalanche,AVAX,$34.98,"$9,374,805,124",/en/coins/avalanche
+13,Wrapped Bitcoin,WBTC,"$30,503.47","$8,658,795,855",/en/coins/wrapped-bitcoin
+14,Lido Staked Ether,STETH,"$2,050.25","$8,575,662,927",/en/coins/lido-staked-ether
+15,Shiba Inu,SHIB,$0.000013418151,"$7,353,217,733",/en/coins/shiba-inu
+16,TRON,TRX,$0.072688286217,"$7,132,518,894",/en/coins/tron
+17,Dai,DAI,$1.00,"$6,093,000,749",/en/coins/dai
+18,NEAR Protocol,NEAR,$7.39,"$5,034,453,827",/en/coins/near
+19,Cronos,CRO,$0.197197,"$4,975,029,206",/en/coins/cronos
+21,Litecoin,LTC,$70.49,"$4,943,022,606",/en/coins/litecoin
+20,Polygon,MATIC,$0.719630,"$4,939,517,345",/en/coins/polygon
+22,LEO Token,LEO,$5.10,"$4,798,776,037",/en/coins/leo-token
+23,FTX Token,FTT,$31.95,"$4,356,537,864",/en/coins/ftx-token
+24,Bitcoin Cash,BCH,$212.91,"$4,055,528,426",/en/coins/bitcoin-cash
+25,Chainlink,LINK,$7.42,"$3,458,220,561",/en/coins/chainlink
+26,Stellar,XLM,$0.137112,"$3,395,563,577",/en/coins/stellar
+28,OKB,OKB,$12.62,"$3,283,322,735",/en/coins/okb
+27,Algorand,ALGO,$0.482337,"$3,273,456,204",/en/coins/algorand
+29,Cosmos Hub,ATOM,$11.10,"$3,244,171,223",/en/coins/cosmos-hub
+30,Flow,FLOW,$3.14,"$3,235,879,104",/en/coins/flow
+31,Ethereum Classic,ETC,$21.08,"$2,840,263,771",/en/coins/ethereum-classic
+32,Monero,XMR,$150.10,"$2,716,126,055",/en/coins/monero
+33,ApeCoin,APE,$9.23,"$2,625,016,914",/en/coins/apecoin
+34,Uniswap,UNI,$5.21,"$2,374,559,187",/en/coins/uniswap
+35,VeChain,VET,$0.033491630784,"$2,230,517,051",/en/coins/vechain
+36,Hedera,HBAR,$0.105011,"$2,121,656,795",/en/coins/hedera
+37,Elrond,EGLD,$88.45,"$1,975,068,992",/en/coins/elrond
+38,Internet Computer,ICP,$8.26,"$1,894,232,482",/en/coins/internet-computer
+39,Theta Fuel,TFUEL,$0.076959703879,"$1,886,178,774",/en/coins/theta-fuel
+41,Filecoin,FIL,$8.93,"$1,831,401,503",/en/coins/filecoin
+40,The Sandbox,SAND,$1.49,"$1,826,835,979",/en/coins/the-sandbox
+42,Magic Internet Money,MIM,$0.997935,"$1,823,761,886",/en/coins/magic-internet-money
+43,Axie Infinity,AXS,$22.70,"$1,775,486,414",/en/coins/axie-infinity
+44,cETH,CETH,$42.09,"$1,714,030,586",/en/coins/compound-ether
+45,Decentraland,MANA,$1.10,"$1,676,195,224",/en/coins/decentraland
+46,Tezos,XTZ,$1.88,"$1,662,796,831",/en/coins/tezos
+47,Frax,FRAX,$1.00,"$1,655,267,050",/en/coins/frax
+48,DeFiChain,DFI,$3.15,"$1,625,678,325",/en/coins/defichain
+49,Theta Network,THETA,$1.49,"$1,492,511,030",/en/coins/theta-network
+50,Chain,XCN,$0.084819558778,"$1,433,342,705",/en/coins/chain
+51,EOS,EOS,$1.43,"$1,414,240,232",/en/coins/eos
+52,PancakeSwap,CAKE,$4.53,"$1,341,960,800",/en/coins/pancakeswap
+53,Maker,MKR,"$1,454.57","$1,309,674,611",/en/coins/maker
+54,cUSDC,CUSDC,$0.022638603653,"$1,300,452,490",/en/coins/compound-usd-coin
+55,KuCoin Token,KCS,$12.81,"$1,259,222,825",/en/coins/kucoin-shares
+56,Aave,AAVE,$88.48,"$1,211,758,255",/en/coins/aave
+57,Zcash,ZEC,$96.57,"$1,204,405,371",/en/coins/zcash
+59,Huobi BTC,HBTC,"$30,319.16","$1,180,680,351",/en/coins/huobi-btc
+58,Klaytn,KLAY,$0.413951,"$1,167,262,204",/en/coins/klaytn
+60,The Graph,GRT,$0.163431,"$1,130,957,428",/en/coins/the-graph
+61,TrueUSD,TUSD,$1.01,"$1,120,367,740",/en/coins/true-usd
+62,Helium,HNT,$11.03,"$1,114,197,709",/en/coins/helium
+63,BitTorrent,BTT,$0.000001159786,"$1,085,510,851",/en/coins/bittorrent
+64,Huobi Token,HT,$6.96,"$1,080,331,466",/en/coins/huobi-token
+65,THORChain,RUNE,$3.55,"$1,064,023,774",/en/coins/thorchain
+66,Bitcoin SV,BSV,$53.60,"$1,020,305,817",/en/coins/bitcoin-sv
+67,TerraUSD,UST,$0.094488374798,"$1,010,292,960",/en/coins/terra-usd
+69,STEPN,GMT,$1.67,"$992,997,497",/en/coins/stepn
+68,Quant,QNT,$73.66,"$987,647,027",/en/coins/quant
+70,Fantom,FTM,$0.389524,"$982,777,186",/en/coins/fantom
+71,Pax Dollar,USDP,$1.00,"$969,183,510",/en/coins/pax-dollar
+72,IOTA,MIOTA,$0.339330,"$940,178,208",/en/coins/iota
+73,eCash,XEC,$0.000047552535,"$906,576,084",/en/coins/ecash
+74,Radix,XRD,$0.091109416972,"$898,910,370",/en/coins/radix
+75,GateToken,GT,$5.73,"$869,693,605",/en/coins/gatetoken
+76,Neutrino USD,USDN,$0.952416,"$869,483,645",/en/coins/neutrino-usd
+79,Convex Finance,CVX,$13.62,"$831,962,525",/en/coins/convex-finance
+77,cDAI,CDAI,$0.022033180992,"$831,934,865",/en/coins/compound-dai
+78,BitDAO,BIT,$0.883324,"$829,616,688",/en/coins/bitdao
+80,Zilliqa,ZIL,$0.055316262399,"$793,178,309",/en/coins/zilliqa
+81,NEO,NEO,$11.07,"$780,550,556",/en/coins/neo
+82,NEXO,NEXO,$1.39,"$780,239,107",/en/coins/nexo
+84,Waves,WAVES,$7.69,"$765,091,317",/en/coins/waves
+83,Arweave,AR,$15.09,"$756,746,062",/en/coins/arweave
+85,Gala,GALA,$0.100429,"$753,375,281",/en/coins/gala
+86,Celo,CELO,$1.68,"$735,805,417",/en/coins/celo
+87,Frax Share,FXS,$11.71,"$704,932,836",/en/coins/frax-share
+89,Kusama,KSM,$78.17,"$701,378,901",/en/coins/kusama
+88,Enjin Coin,ENJ,$0.743635,"$694,215,580",/en/coins/enjin-coin
+90,cUSDT,CUSDT,$0.021768404499,"$670,306,005",/en/coins/compound-usdt
+91,Dash,DASH,$60.37,"$646,806,951",/en/coins/dash
+92,Amp,AMP,$0.013452370361,"$644,189,149",/en/coins/amp
+93,Synthetix Network Token,SNX,$2.87,"$640,284,821",/en/coins/synthetix-network-token
+96,Loopring,LRC,$0.501500,"$625,075,644",/en/coins/loopring
+95,Chiliz,CHZ,$0.116886,"$623,905,964",/en/coins/chiliz
+94,Harmony,ONE,$0.051892119121,"$623,714,500",/en/coins/harmony
+97,Basic Attention Token,BAT,$0.412160,"$616,408,626",/en/coins/basic-attention-token
+98,Stacks,STX,$0.582104,"$611,924,651",/en/coins/stacks
+100,Gnosis,GNO,$233.92,"$602,513,047",/en/coins/gnosis
+99,PAX Gold,PAXG,"$1,833.08","$601,709,277",/en/coins/pax-gold
